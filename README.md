@@ -1,3 +1,3 @@
 # new project
 this project was created from local system. 
-created by manish kr. singh.
+created by manish kumar singh.
